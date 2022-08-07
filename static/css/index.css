@@ -128,4 +128,3 @@ button.close {
 .close:not(:disabled):not(.disabled) {
   cursor: pointer;
 }
-  
